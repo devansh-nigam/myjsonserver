@@ -3,7 +3,7 @@
     "id":1,
     "name":"Devansh"
   },
-  "auth/signin":{
+  "signin":{
     "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2MTU2ODQ0MzUiLCJpYXQiOjE3MDgwNzk3NjAsImV4cCI6MTcwODE2NjE2MH0.XcJLK7Qz6R6mX4_ry0yXbDxf3dbsY8dWnb8lgWh_CaYIUz_Lg9AaTpw6robkJQipN7AiKLcu01RuQFfHgI5Z7Q",
     "type": "Bearer",
     "id": 2,
